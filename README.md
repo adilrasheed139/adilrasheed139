@@ -1,38 +1,31 @@
-**◈ Data Science Enthusiast & AI Visionary ◈**  
+# Hi, I'm Adil Rasheed 👋
 
-I'm **Adil Rasheed**, a **Top-Rated professional on Upwork** with a profound passion for **Data Science**, innovative problem-solving, and delivering impactful insights. With a strong academic foundation in BS Data Science and hands-on expertise in developing data-driven solutions, I thrive at the intersection of cutting-edge technology and analytical rigor.  
+### Data Science Enthusiast | AI & Machine Learning
 
-My goal? To turn complex datasets into actionable strategies that drive meaningful outcomes, combining technical mastery with creative thinking to tackle real-world challenges.  
+I enjoy turning complex data into useful insights and building thoughtful, data-driven solutions to real-world problems. My interests span machine learning, deep learning, analytics, and the practical ways AI can make a difference.
 
----  
+- 🧠 I work with **Python, SQL, machine learning, and data visualization**.
+- 🔬 I’m interested in **data preprocessing, feature engineering, and deep learning**.
+- 🏥 I’ve explored healthcare AI, including a hackathon project to detect skin infections with a CNN.
+- 🤝 I enjoy sharing what I learn through mentoring and hands-on instruction.
+- ⭐ Recognized as a **Top-Rated professional on Upwork**.
 
-### 🏆 Achievements  
-- **Upwork Top-Rated Badge**: Recognized for exceptional freelance contributions.  
-- **Hackathon Leader**: Successfully led projects to acquire and engage users through strategic insights and advanced analytics.  
-- **Awarded Academic Excellence Scholarships**: Honored for consistent academic achievements in Data Science.  
+## Skills
 
----  
+- **Languages & data:** Python, SQL
+- **Machine learning:** Machine learning, deep learning, data preprocessing, feature engineering
+- **Visualization:** Power BI, Tableau
+- **Other interests:** Statistical analysis, mentoring, and applied AI
 
-### 🧑‍🏫 Teaching Experience  
-- **Data Science Mentor**: Guided peers and juniors in mastering machine learning, statistical analysis, and advanced Python programming techniques.  
-- **Hands-on Instructor**: Conducted workshops on data visualization and preprocessing for aspiring data enthusiasts.  
+## Highlights
 
----  
+- Built a **CNN-based skin infection detection app** for an international hackathon.
+- Led hackathon work focused on user acquisition and engagement through data-informed strategies.
+- Mentored learners in machine learning, statistical analysis, Python, data visualization, and preprocessing.
+- Earned academic excellence scholarships and completed certifications including **AI for Everyone** and **Machine Learning with Python**.
 
-### 🌍 International Hackathons  
-- **AI-Powered Innovation**: Developed a skin infection detection app using Deep Learning CNN for healthcare advancements.  
-- **User Acquisition Projects**: Pioneered engagement strategies leveraging platforms like LinkedIn, TikTok, and Instagram, achieving targeted metrics with measurable results.  
+## Let’s connect
 
----  
+I’m open to conversations about data science, AI, learning, and collaboration.
 
-### Skills & Certifications  
-I bring expertise in:  
-- **Python, SQL, and Machine Learning**  
-- **Power BI & Tableau for Visualization**  
-- **Data Preprocessing and Feature Engineering**  
-- **Deep Learning Frameworks**  
-
-Certified in **AI for Everyone**, **Machine Learning with Python**, and several other distinguished programs.  
-
-Let’s create a transformative impact together!  
-Reach out for collaborations or discussions on leveraging data science for innovation.
+- **GitHub:** [@adilrasheed139](https://github.com/adilrasheed139)
